@@ -9,4 +9,6 @@ You must run:
 ./run.sh
 ```
 
-You can edit this file to change the pool size and the location path to search
+You can edit this file to change the pool size and the location path to search.
+
+The results will be at output directory. Check there!
